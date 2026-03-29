@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">Hi, Im SeoIm Choi.</h3>
 
+## Tech Stack
+https://solved.ac/profile/egu1832#
+
 <!--
 <p align="center">
   An Interactive Portfolio Site of SeoIm Choi —<br>
