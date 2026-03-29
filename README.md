@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=A8D5BA"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A8D5BA"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://readme-stats-fast.vercel.app/api?username=EGU1832&show_icons=true&theme=github_dark" height="150"/>
