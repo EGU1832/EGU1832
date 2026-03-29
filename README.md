@@ -21,9 +21,16 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGU1832&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EGU1832&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGU1832&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=egu1832)](https://solved.ac/egu1832)
+<p align="center">
+  <a href="https://solved.ac/egu1832">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=egu1832" height="150"/>
+  </a>
+</p>
 
 <!--
 <p align="center">
