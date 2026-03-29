@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **EGU1832/EGU1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,9 @@ Here are some ideas to get you started:
   <img src="profile_v1.png" alt="My Profile" width="180" style="border-radius: 20px;">
 </p>
 
-<h3 align="center">Hi, Im SeoIm Choi</h3>
+<h3 align="center">Hi, Im SeoIm Choi.</h3>
+
+---
 
 <!--
 <p align="center">
