@@ -17,7 +17,9 @@ Here are some ideas to get you started:
   <img src="profile_v2.png" alt="My Profile" width="180" style="border-radius: 20px;">
 </p>
 
-<h3 align="center">Hi, Im SeoIm Choi.</h3>
+<h3 align="center">
+  Hi, I'm <span style="color:#8FBF9F;">SeoIm Choi</span>.
+</h3>
 
 ---
 
