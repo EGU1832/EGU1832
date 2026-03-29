@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=A8D5BA"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=0.751&color=3D444D"/>
 </p>
 
 ---
