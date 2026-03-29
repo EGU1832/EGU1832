@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   <img src="profile_v2.png" alt="My Profile" width="180" style="border-radius: 20px;">
 </p>
 
-<h3 align="center">
-  Hi, I'm <span style="color:#8FBF9F; font-weight:600;">SeoIm Choi</span>.
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8FBF9F&center=true&vCenter=true&width=435&lines=Hi,+I'm+SeoIm+Choi." />
+</p>
 
 ---
 
