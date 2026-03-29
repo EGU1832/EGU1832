@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <p align="center">
-  <a href="https://egu1832.vercel.app">
-    <img src="profile.png" alt="My Portfolio Site Icon" width="180" style="border-radius: 20px;">
-  </a>
+  <img src="profile_v1.png" alt="My Profile" width="180" style="border-radius: 20px;">
 </p>
 
-<h3 align="center">My Portfolio Site</h3>
+<h3 align="center">Hi, Im SeoIm Choi</h3>
 
+<!--
 <p align="center">
   An Interactive Portfolio Site of SeoIm Choi —<br>
   You can explore (Resume), Team or Toy Projects, Study Notes, (Digital Art Gallery).<br><br>
