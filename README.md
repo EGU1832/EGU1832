@@ -17,11 +17,7 @@ Here are some ideas to get you started:
   <img src="profile_v2.png" alt="My Profile" width="180" style="border-radius: 20px;">
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=24&pause=3000&color=E8BA29&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+SeoIm+Choi." alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=24&pause=3000&color=E8BA29&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+SeoIm+Choi." alt="Typing SVG" /></a>
 
 ---
 
