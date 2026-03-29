@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="profile_v1.png" alt="My Profile" width="180" style="border-radius: 20px;">
+  <img src="profile_v2.png" alt="My Profile" width="180" style="border-radius: 20px;">
 </p>
 
 <h3 align="center">Hi, Im SeoIm Choi.</h3>
-
----
 
 <!--
 <p align="center">
