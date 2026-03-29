@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">
-  Hi, I'm <span style="color:#8FBF9F;">SeoIm Choi</span>.
+  Hi, I'm <span style="color:#8FBF9F; font-weight:600;">SeoIm Choi</span>.
 </h3>
 
 ---
