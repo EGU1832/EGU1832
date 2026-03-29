@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-────────────────────────────────────────────────────────────────────────
+---
 
 <p align="center">
   <img src="https://readme-stats-fast.vercel.app/api?username=EGU1832&show_icons=true&theme=github_dark" height="150"/>
