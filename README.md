@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <h3 align="center">Hi, Im SeoIm Choi.</h3>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGU1832&layout=compact&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGU1832&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGU1832&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=egu1832)](https://solved.ac/egu1832)
 
