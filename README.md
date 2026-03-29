@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=EGU1832&show_icons=true&theme=github_dark" height="200"/>
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=EGU1832&layout=compact&theme=github_dark" height="200"/>
+  <img src="https://readme-stats-fast.vercel.app/api?username=EGU1832&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=EGU1832&layout=compact&theme=github_dark" height="150"/>
 </p>
 
 <br>
